@@ -1,16 +1,76 @@
 body{
-    background: rgb(100, 226, 235);
+    background: rgb(188, 214, 210);
 
 }
-Header{
+#usuario{
+    background: rgb(233, 95, 15);
+}
+img{
+    text-align: center;  
+}
+#principal{
+    background: #42f30c;
+}
+.btn{
+    background: #8ceb10;
+    width: 300px;
+    height: 30px;
+    text-align:center;
+    margin: 9px;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+.btn_1{
+    background: #0cdb2e;
+    width: 300px;
+    height: 30px;
+    text-align:center;
+    margin: 9px;
+    margin-left: 80px;
+    margin-right: 5px; 
+}
+.btn_2{
+    background: #db0c0c;
+    width: 300px;
+    height: 30px;
+    text-align:center;
+    margin: 9px;
+    margin-left: 80px;
+    margin-right: 5px; 
+}
+.btn_3{
+    background: #e6e928;
+    width: 300px;
+    height: 30px;
+    text-align:center;
+    margin: 20px;
+    margin-left: 80px;
+    margin-right: 5px; 
+}
+Header {
   width: 1350px;
-  height: 80px;
-  background:rgb(54, 238, 18);
+  height: 60px;
+  background:rgb(50, 18, 231);
   
 }
+
 h1{
     text-align: center;
 }
 nav{
     text-align: center;
+}
+footer{
+    text-align: center;
+    background:darkblue;
+    width: 1350px;
+    height: 40px
+    
+}
+
+aside{
+    background:rgb(43, 219, 196);
+    margin: 50px;
+    margin-left: 25px;
+    margin-right: 45px;
 }
